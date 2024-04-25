@@ -11,11 +11,11 @@ This software is available under an Open Source License ("Community Edition"). I
 
 Alternatively, commercial versions of the Ever Demand software must be used in accordance with the terms and conditions of the separate written license agreement between you and Ever Co. LTD. With a commercial license, your source code (including your changes) is kept proprietary. You can purchase a commercial license athttps://ever.co/pricing.
 
-In addition, Ever Co. LTD holds copyright and/or sufficient licenses to all components of the Ever Platform, and therefore can grant, at its sole discretion, the ability for companies, individuals, or organizations to create proprietary modules which may be dynamically linked at runtime with the portions of Ever Platform which fall under our copyright/license umbrella.
+In addition, Ever Co. LTD holds copyright and/or sufficient licenses to all components of the Ever Demand Platform, and therefore can grant, at its sole discretion, the ability for companies, individuals, or organizations to create proprietary modules that may be dynamically linked at runtime with the portions of Ever Demand Platform which fall under our copyright/license umbrella.
 
 We support the open-source community. If you're building awesome non-profit/open-source projects, we're happy to help and will provide (subject to [acceptance criteria](https://github.com/ever-co/ever-demand/wiki/Free-license-and-hosting-for-Non-profit-and-Open-Source-projects)) Ever Demand Enterprise edition license and free hosting option! Feel free to contact us at <mailto:ever@ever.co> to make a request. More details about licensing for non-profit/open-source projects explained in our [Wiki](https://github.com/ever-co/ever-demand/wiki/Free-license-and-hosting-for-Non-profit-and-Open-Source-projects).
 
-**The default Ever Platform license, without a valid Ever Platform Small Business or Ever Platform Enterprise License agreement, is the Ever Platform Community Edition License.**
+**The default Ever Demand Platform license, without a valid Ever Demand Platform Small Business or Ever Demand Platform Enterprise License agreement, is the Ever Demand Platform Community Edition License.**
 
 ### _Ever Demand Platform Community Edition_ License
 
@@ -27,7 +27,7 @@ In addition, different parts of the Platform are also made available under the t
 -   Pyro shared modules - [MIT License](https://opensource.org/licenses/MIT)
 -   Other shared modules - [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.txt)
 
-If you decide to choose the Ever® Platform Community™ Edition License, you must comply with the following terms:
+If you decide to choose the Ever® Demand Platform Community™ Edition License, you must comply with the following terms:
 
 This program is free software: you can redistribute it and/or modify it under the terms of the corresponding licenses described in the LICENSE / LICENSE.md files located in software sub-folders and under the terms of licenses described in individual files.
 
