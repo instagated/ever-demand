@@ -20,10 +20,7 @@
 	"scripts": {
 		"prepare:husky": "npx husky install .husky",
 		"bootstrap": "yarn install --frozen-lockfile && yarn lerna bootstrap",
-		"build": "yarn run build:common && yarn run build:common:angular && yarn lerna run --parallel build && evershop build --skip-minify",
-        "start": "evershop start",
-        "user:create": "evershop user:create",
-        "user:changePassword": "evershop user:changePassword",
+		"build": "yarn run build:common && yarn run build:common:angular && yarn lerna run --parallel build",
 		"watch": "yarn lerna run --parallel watch",
 		"clean": "yarn lerna run clean",
 		"pub": "yarn lerna publish",
